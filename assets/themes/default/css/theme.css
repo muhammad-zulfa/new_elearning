@@ -2180,6 +2180,10 @@ hr.hr-normal {
     margin-bottom: 0px;
 }
 
+.copyright{
+    font-size: 8pt !important;
+}
+
 @media screen and (max-width: 767px) {
   .table-responsive {
     width: 100%;
